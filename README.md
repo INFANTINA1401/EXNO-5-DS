@@ -1,13 +1,13 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-#DHARSHINIYAA KS 
-#CSE(CYBER SECURITY)
-# Aim:
+# NAME: INFANTINA MARIA L (212223100013)
+# DEP: CSE(CYBER SECURITY)
+# AIM:
   To Perform Data Visualization using matplot python library for the given data.
 
 # EXPLANATION:
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# Algorithm:
+# ALGORITHM:
 STEP 1:Include the necessary Library.
 
 STEP 2:Read the given Data.
@@ -18,7 +18,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 
 STEP 5:Include Necessary parameters in each functions.
 
-# Coding and Output:
+# CODING AND OUTPUT:
 ```
 import matplotlib.pyplot as plt
 x_values=[0,1,2,3,4,5]
@@ -331,6 +331,6 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/dd9ea43c-915b-4f43-a7f6-e59472202cd3)
 
-# Result:
+# RESULT:
  Data Visualization using matplot python library for the given data have executed successfully.
 
